@@ -2,6 +2,10 @@ qimai_history:
 
 https://www.qimai.cn/app/version/appid/1025707485/country/us
 
+top10:
+
+https://www.qimai.cn/app/competitiveTendency/word/vpn/device/iphone/country/us
+
 header:
 
 ```xml
