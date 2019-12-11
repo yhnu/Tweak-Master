@@ -1,5 +1,6 @@
-qimai_history:
-
+qimai_history(历史版本查看):
+https://hao.su/2185/
+http://tools.lancely.tech/apple/app-history
 https://www.qimai.cn/app/version/appid/1025707485/country/us
 
 top10:
